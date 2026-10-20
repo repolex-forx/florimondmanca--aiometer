@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/florimondmanca/aiometer/commit/73db261bccb60aceff48677ea9b72a44110c4c11",
       "git:hexsha": "73db261bccb60aceff48677ea9b72a44110c4c11",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.0.0"
     },
     {
