@@ -1,0 +1,11 @@
+{
+  "org": "florimondmanca",
+  "repo": "aiometer",
+  "versions": [
+    {
+      "commit": "73db261bccb60aceff48677ea9b72a44110c4c11",
+      "tag": "1.0.0",
+      "parsed_at": "2026-10-20T22:04:36.949703+00:00"
+    }
+  ]
+}
